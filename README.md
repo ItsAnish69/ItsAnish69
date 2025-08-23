@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**ItsAnish69/ItsAnish69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Anish 👋
 
-Here are some ideas to get you started:
+💻 **Aspiring Full-Stack Developer** | 🌱 Currently learning **MERN Stack & UI/UX Design** | 🎨 Exploring **Figma** for design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+- 🌟 Passionate about building **modern web applications**  
+- 📚 Currently learning **MERN Stack (MongoDB, Express.js, React, Node.js)**  
+- 🎨 Practicing **UI/UX design** with **Figma**  
+- 🛠️ Love working with **VS Code** as my main editor  
+- 🔍 Exploring **software engineering & system design concepts**  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🔧 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+<p>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
