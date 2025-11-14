@@ -1,6 +1,5 @@
-## Hi there 👋
-
-# Hi there, I'm Anish 👋
+# Hi there,
+I'm Anish 👋
 
 💻 **Aspiring Full-Stack Developer** | 🌱 Currently learning **MERN Stack & UI/UX Design** | 🎨 Exploring **Figma** for design  
 
