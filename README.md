@@ -49,7 +49,7 @@ I'm Anish 👋
 
 ## 👤 Profile Stats
 
-<img src="preview.png" width="800">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsAnish69&show_icons=true&theme=dark)
 
 ---
 
@@ -66,25 +66,25 @@ I'm Anish 👋
 
 ## 💻 Top Languages
 
-### 🔹 By Repository
+### 🔹 By repository
 
-<img src="assets/lang-repo.png" width="400">
+![Top repository by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsAnish69&theme=github_dark)
 
 ### 🔹 By Commits
 
-<img src="assets/lang-commit.png" width="400">
+![Top Commit by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItsAnish69&theme=github_dark)
 
 ---
 
 ## 🔥 Streak Stats
 
-<img src="assets/streak.png" width="600">
+![GitHub Streak](https://streak-stats.demolab.com/?user=ItsAnish69&theme=dark)
 
 ---
 
 ## 📊 Contribution Graph
 
-<img src="assets/contribution-graph.png" width="900">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsAnish69&theme=github-dark)
 
 ---
 
