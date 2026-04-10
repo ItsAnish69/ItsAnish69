@@ -49,7 +49,7 @@ I'm Anish 👋
 
 ## 👤 Profile Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsAnish69&show_icons=true&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsAnish69&theme=github_dark)
 
 ---
 
@@ -64,17 +64,9 @@ I'm Anish 👋
 
 ---
 
-## 💻 Top Languages
+## 💻 Languages
 
-### 🔹 By repository
-
-![Top repository by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsAnish69&theme=github_dark)
-
-### 🔹 By Commits
-
-![Top Commit by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItsAnish69&theme=github_dark)
-
----
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ItsAnish69&layout=compact&theme=tokyonight)
 
 ## 🔥 Streak Stats
 
@@ -90,8 +82,8 @@ I'm Anish 👋
 
 ## 🌐 Connect with Me  
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/anish-karki-7592953a0/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:karkianish362@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 
